@@ -18,13 +18,12 @@ Language: Java
 Setup Instructions
 Clone the Repository:
 
-bash
-git clone <repository-url>
-Install Dependencies:
+bash: git clone <repository-url>
 
-Ensure you have Java Development Kit (JDK) installed.
-Download and add the Selenium library to your project.
-Download the appropriate browser driver (e.g., ChromeDriver).
+Install Dependencies:
+  Ensure you have Java Development Kit (JDK) installed.
+  Download and add the Selenium library to your project.
+  Download the appropriate browser driver (e.g., ChromeDriver).
 Import the Project:
 
 Open Eclipse or IntelliJ.
